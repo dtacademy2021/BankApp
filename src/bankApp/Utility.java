@@ -22,7 +22,7 @@ public class Utility {
 	 *
 	 * Optionally use try-with-resources statement to auto-close the Scanner object 
 	 */
-	public static List<Integer[]> readFromAFile(String pathToTheFile)  {
+	public static List<String[]> readFromAFile(String pathToTheFile)  {
 		List<String[]> list = new ArrayList<>();
 		
 		File f = new File(pathToTheFile);
