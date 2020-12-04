@@ -21,7 +21,7 @@ public abstract class Account {
 	
 	//Field declarations go here
 	
-	
+	private String name;
 	
 	
 	
