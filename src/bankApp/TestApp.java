@@ -34,7 +34,7 @@ public class TestApp {
 		
 		
 		for (String[] customer : customers) {
-			System.out.println(customer[0]);
+			System.out.println(customer[1]);
 		}
 		
 		
