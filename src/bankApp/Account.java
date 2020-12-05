@@ -52,7 +52,7 @@ public abstract class Account {
 	 * 
 	 */
 	private String generateAccountnumber() {
-	   //implementation goes here
+	 String name;
 		return null;
 	}
 	
